@@ -158,7 +158,7 @@
                 
                 <div class="col-md-6">
                     <div class="panel panel-default">
-                        <div class="panel-heading">Short-ish route given the constraints.</div>
+                        <div class="panel-heading">Map only works with default coordinates because I didn't have time</div>
                 
                         <div class="panel-body">
                             <canvas id="routeCanvas" width="500" height="500"style="width: 100%;height: 100%;max-height: 500px;"></canvas>
