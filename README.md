@@ -2,8 +2,6 @@
 ### Challenge
 Using a list of cities with population and coordinates, the program accepts a latitude and longitude as input, and outputs an ordered list of 20 "suggested nearby cities".
 
-[Prototype in action](http://52.33.24.135/)
-
 ### Please submit an explanation of your thought process
 I chose to make a path finding script that takes your gps coordinates and some other parameters, and creates a return trip around your neighbourhood, choosing cities with the highest populations, then adjusting the route by changing to closer but lesser populated cities to try and meet the range that you can travel.
 
